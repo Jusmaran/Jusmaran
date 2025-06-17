@@ -43,8 +43,8 @@
 <h2 align="center">🧬 Stats 🧬</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jusmaran&count_private=true&show_icons=true&theme=holi&rank_icon=github&border_radius=10" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jusmaran&hide=HTML&langs_count=8&layout=compact&theme=holi&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" width="400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jusmaran&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jusmaran&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" width="400" alt="Top Languages" />
 </div>
 
 <hr/>
